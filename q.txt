@@ -1,0 +1,21 @@
+1 : [Fw : Fw] : [Few : Fwe] : [Fwe : We] : 231
+1 : [Hiruni : Amara] : [Kumudi : Chan] : [Kumari : Akka] : 100
+1 : [Lakin : Yaso] : [Pimpi : Amaya] : [Loki : Senewi] : 0
+1 : [Chamoth : Mendis] : [Vihasa : Tharupathi] : [Akila : Gune] : 200
+1 : [Fwf : Fw] : [Fw : Wfwe] : [Fw : Fw] : 21
+1 : [Duasha : Indeewa] : [Ruksha : Samara] : [Samaraweera : Arachchi] : 34
+1 : [Da : F] : [Dg : E] : [Gfd : Da] : 32
+1 : [U : U] : [U : U] : [U : U] : 42
+1 : [Kimpi : Amana] : [Loku : Seen] : [Gamini : Sundara] : 124
+1 : [G : G] : [G : G] : [G : G] : 432
+1 : [J : J] : [J : J] : [J : J] : 54
+1 : [Goda : Machan] : [Code : Eka] : [Wda : Yko] : 200
+
+
+|----------------------------------------------------|
+|                       PATTERN                      |
+|----------------------------------------------------|
+|Room condition(R.C.): If 1, there is already a guest|
+|          E: Expenses;         C: Customer          |
+|   R.C  :  [1st C]  :  [2nd C]  :  [3rd C]  :  [E]  |
+|----------------------------------------------------|

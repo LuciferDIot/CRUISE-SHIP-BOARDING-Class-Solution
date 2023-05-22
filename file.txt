@@ -1,0 +1,21 @@
+Cabin 1 : 0 : [ -  :  - ] : [ -  :  - ] : [ -  :  - ] : 0.0 : 0.0 : 0.0 :
+Cabin 2 : 0 : [ -  :  - ] : [ -  :  - ] : [ -  :  - ] : 0.0 : 0.0 : 0.0 :
+Cabin 3 : 1 : [Lakin : Yaso] : [Pimpi : Amaya] : [Loki : Senewi] : 0.0 : 0.0 : 0.0 :
+Cabin 4 : 1 : [Chamoth : Mendis] : [Vihasa : Tharupathi] : [Akila : Gune] : 200.0 : 0.0 : 0.0 :
+Cabin 5 : 0 : [ -  :  - ] : [ -  :  - ] : [ -  :  - ] : 0.0 : 0.0 : 0.0 :
+Cabin 6 : 1 : [Duasha : Indeewa] : [Ruksha : Samara] : [Samaraweera : Arachchi] : 34.0 : 0.0 : 0.0 :
+Cabin 7 : 1 : [Chamoth : Mendis] : [Vihasa : Tharupathi] : [Akila : Gune] : 200.0 : 21.0 : 21.0 :
+Cabin 8 : 1 : [Dulami : Kalu] : [Pimyara : Wfwe] : [Fw : Fw] : 21.0 : 34.0 : 34.0 :
+Cabin 9 : 1 : [Kimpi : Amana] : [Loku : Seen] : [Gamini : Sundara] : 124.0 : 0.0 : 0.0 :
+Cabin 10 : 0 : [ -  :  - ] : [ -  :  - ] : [ -  :  - ] : 0.0 : 0.0 : 0.0 :
+Cabin 11 : 0 : [ -  :  - ] : [ -  :  - ] : [ -  :  - ] : 0.0 : 0.0 : 0.0 :
+Cabin 12 : 1 : [Goda : Machan] : [Code : Eka] : [Wda : Yko] : 200.0 : 0.0 : 0.0 :
+
+
+|------------------------------------------------------------------------------------|
+|                                         PATTERN                                    |
+|------------------------------------------------------------------------------------|
+|                Room condition(R.C.): If 1, there is already a guest                |
+|                         E: Expenses;         C: Customer                           |
+|   R.C  :  [1st C]  :  [2nd C]  :  [3rd C]  :  [1st C E] :  [2st C E] :  [3st C E]  |
+|------------------------------------------------------------------------------------|
